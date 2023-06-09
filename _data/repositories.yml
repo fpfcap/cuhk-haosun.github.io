@@ -1,6 +1,8 @@
 # cannot add orgnization account
-#github_users:
-#  - cuhk-sunhao
+github_users:
+  - Milokita
+  - libraryies
+  - jieyuanCUHK
 
 github_repos:
   - cuhk-sunhao/cuhk-sunhao.github.io
