@@ -1,6 +1,7 @@
-# Contributing to al-folio
+# Contributing to webpage
 Thank you for considering to contribute to al-folio!
 
+to test the build: `bundle exec jekyll serve --lsi`
 
 ## Pull Requests
 We welcome your pull requests (PRs).
