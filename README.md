@@ -6,3 +6,4 @@ Please visit: https://cuhk-sunhao.github.io
 
 # Contributor
 - Xing Zhao
+- Yi Yan
