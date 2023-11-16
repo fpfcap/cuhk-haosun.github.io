@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: CUHK Hao Sun 
+title: Prof. Hao SUN's Lab in CUHK(SZ) 
 first_name: Hao
-last_name: Sun
-email: you@example.com
+last_name: SUN
+email: sunhao100@cuhk.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The website of prof. Hao Sun in the Chinese University of Hong Kong
+  The website of prof. Hao Sun in the Chinese University of Hong Kong, Shenzhen
 
 footer_text: >
   Maintained by Xing Zhao
@@ -105,7 +105,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  sunhao100@cuhk.edu.cn
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -270,7 +270,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 scholar:
 
   last_name: [Sun]
-  first_name: [Hao, H]
+  first_name: [Hao, H.]
 
   style: apa
   locale: en
