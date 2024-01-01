@@ -1,8 +1,274 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://cuhk-sunhao.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cuhk-sunhao.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-01T14:15:27+00:00</updated><id>https://cuhk-sunhao.github.io/feed.xml</id><title type="html">Prof. Hao SUN’s Lab in CUHK(SZ)</title><subtitle>The website of prof. Hao Sun in the Chinese University of Hong Kong, Shenzhen
-</subtitle><entry><title type="html">New lab in CUHKSZ</title><link href="https://cuhk-sunhao.github.io/blog/2023/images/" rel="alternate" type="text/html" title="New lab in CUHKSZ" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-06T00:00:00+00:00</updated><id>https://cuhk-sunhao.github.io/blog/2023/images</id><content type="html" xml:base="https://cuhk-sunhao.github.io/blog/2023/images/"><![CDATA[<p>Prof. Sun and his two students opened prof.Sun’s lab in CUHKSZ, Warshel institue for computational biology.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://cuhk-sunhao.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cuhk-sunhao.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-01T15:40:43+00:00</updated><id>https://cuhk-sunhao.github.io/feed.xml</id><title type="html">Prof. Hao SUN’s Lab in CUHK(SZ)</title><subtitle>The website of prof. Hao Sun in the Chinese University of Hong Kong, Shenzhen
+</subtitle><entry><title type="html">Group meeting in 2023/12/26</title><link href="https://cuhk-sunhao.github.io/blog/2023/meeting/" rel="alternate" type="text/html" title="Group meeting in 2023/12/26" /><published>2023-12-26T13:00:00+00:00</published><updated>2023-12-26T13:00:00+00:00</updated><id>https://cuhk-sunhao.github.io/blog/2023/meeting</id><content type="html" xml:base="https://cuhk-sunhao.github.io/blog/2023/meeting/"><![CDATA[<p>A group meeting of SUN Lab was conducted in Dec. 26th, 202, in RB206. Prof. SUN and his students were present at the meeting.</p>
+
+<div class="row mt-3">
+    <div class="offset-sm-3 col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/20231226meeting-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/20231226meeting-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/20231226meeting-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/20231226meeting.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Dr. ZHAO was sharing his report.
+</div>]]></content><author><name></name></author><category term="news" /><category term="news" /><category term="images" /><summary type="html"><![CDATA[Group meeting in 2023/12/26]]></summary></entry><entry><title type="html">Nanopore Tutorial</title><link href="https://cuhk-sunhao.github.io/blog/2023/tutorial/" rel="alternate" type="text/html" title="Nanopore Tutorial" /><published>2023-12-01T14:00:00+00:00</published><updated>2023-12-01T14:00:00+00:00</updated><id>https://cuhk-sunhao.github.io/blog/2023/tutorial</id><content type="html" xml:base="https://cuhk-sunhao.github.io/blog/2023/tutorial/"><![CDATA[<p>A tutorial about how to operate Nanopore MinION was conducted. Four students of SUN Lab were present at the tutorial. The demonstration was done by Dr. YAN.</p>
+
+<div class="row mt-3">
+    <div class="offset-sm-3 col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/20231201.nanopore.tutorial-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/20231201.nanopore.tutorial-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/20231201.nanopore.tutorial-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/20231201.nanopore.tutorial.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Dr. YAN (middle) was explaining the usage of Nanopore MinION to Xinhong SUN (left) and Sihao HU (right).
+</div>]]></content><author><name></name></author><category term="news" /><category term="news" /><category term="images" /><summary type="html"><![CDATA[Nanopore Tutorial]]></summary></entry><entry><title type="html">Warshel Conference in 2023/10/29</title><link href="https://cuhk-sunhao.github.io/blog/2023/conference/" rel="alternate" type="text/html" title="Warshel Conference in 2023/10/29" /><published>2023-10-29T14:00:00+00:00</published><updated>2023-10-29T14:00:00+00:00</updated><id>https://cuhk-sunhao.github.io/blog/2023/conference</id><content type="html" xml:base="https://cuhk-sunhao.github.io/blog/2023/conference/"><![CDATA[<p>Warshel Conference was conducted in CUHKSZ between Oct. 28th and 29th, 2023. Prof. SUN was present at the conference.</p>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Conference2023102901-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Conference2023102901-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Conference2023102901-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Conference2023102901.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Conference2023102902-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Conference2023102902-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Conference2023102902-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Conference2023102902.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Conference2023102904-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Conference2023102904-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Conference2023102904-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Conference2023102904.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Prof. SUN raised questions and opinions on the topic he was interested in.
+</div>
+
+<p>Students of SUN Lab, Dr. ZHAO and Dr. YAN, were also present at the conference.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Conference2023102905-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Conference2023102905-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Conference2023102905-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Conference2023102905.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Conference2023102906-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Conference2023102906-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Conference2023102906-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Conference2023102906.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+        <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Conference2023102907-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Conference2023102907-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Conference2023102907-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Conference2023102907.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Conference2023102908-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Conference2023102908-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Conference2023102908-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Conference2023102908.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Dr. ZHAO raised questions and opinions on the topic he was interested in. And Dr. YAN took some notes about the contents he was interested in.
+</div>]]></content><author><name></name></author><category term="news" /><category term="news" /><category term="images" /><summary type="html"><![CDATA[Warshel Conference in 2023/10/29]]></summary></entry><entry><title type="html">Prof. SUN in the lecture</title><link href="https://cuhk-sunhao.github.io/blog/2023/lecture/" rel="alternate" type="text/html" title="Prof. SUN in the lecture" /><published>2023-09-27T12:00:00+00:00</published><updated>2023-09-27T12:00:00+00:00</updated><id>https://cuhk-sunhao.github.io/blog/2023/lecture</id><content type="html" xml:base="https://cuhk-sunhao.github.io/blog/2023/lecture/"><![CDATA[<p>Some photos of Prof. SUN in lectures were collected.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Lecture01-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Lecture01-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Lecture01-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Lecture01.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Lecture02-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Lecture02-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Lecture02-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Lecture02.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Lecture03-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Lecture03-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Lecture03-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Lecture03.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Lecture04-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Lecture04-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Lecture04-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Lecture04.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Prof. SUN was glad to answer questions from students when lectures were finished.
+</div>]]></content><author><name></name></author><category term="news" /><category term="news" /><category term="images" /><summary type="html"><![CDATA[Prof. SUN in the lecture]]></summary></entry><entry><title type="html">New lab in CUHKSZ</title><link href="https://cuhk-sunhao.github.io/blog/2023/opening/" rel="alternate" type="text/html" title="New lab in CUHKSZ" /><published>2023-09-06T16:30:00+00:00</published><updated>2023-09-06T16:30:00+00:00</updated><id>https://cuhk-sunhao.github.io/blog/2023/opening</id><content type="html" xml:base="https://cuhk-sunhao.github.io/blog/2023/opening/"><![CDATA[<p>Prof. Sun and his two students opened prof.Sun’s lab in CUHKSZ, Warshel institue for computational biology.</p>
+
+<div class="row mt-3">
+    <div class="offset-sm-3 col-sm-6 mt-3 mt-md-0">
         <figure>
 
   <picture>
@@ -20,4 +286,7 @@
 </figure>
 
     </div>
-</div>]]></content><author><name></name></author><category term="news" /><category term="news" /><category term="images" /><summary type="html"><![CDATA[New lab in CUHKSZ]]></summary></entry><entry><title type="html">Post title</title><link href="https://cuhk-sunhao.github.io/blog/2014/example-page/" rel="alternate" type="text/html" title="Post title" /><published>2014-07-02T10:00:00+00:00</published><updated>2014-07-02T10:00:00+00:00</updated><id>https://cuhk-sunhao.github.io/blog/2014/example-page</id><content type="html" xml:base="https://cuhk-sunhao.github.io/blog/2014/example-page/"><![CDATA[<p>Hello world, this is <strong>markdown</strong>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[A nice post]]></summary></entry></feed>
+</div>
+<div class="caption">
+    Prof. SUN (right), Dr. ZHAO (second from left) and Dr. YAN (first from left).
+</div>]]></content><author><name></name></author><category term="news" /><category term="news" /><category term="images" /><summary type="html"><![CDATA[New lab in CUHKSZ]]></summary></entry></feed>
