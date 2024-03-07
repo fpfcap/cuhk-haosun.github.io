@@ -1,12 +1,9 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: MBI6003---Theories and Algorithms in Bioinformatics
+title: Teaching
+description: Course material 
 nav: true
 nav_order: 5
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<a href="[url](https://github.com/cuhk-haosun/course-MBI6013/)">MBI6013</a>---Theories and Algorithms in Bioinformatics 
