@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://lhs.cuhk.edu.cn/en/page/61'>Warshel Institute for Computational Biology</a>. Chinese University of Hong Kong, Shenzhen.
 
