@@ -12,7 +12,7 @@ thumbnail: assets/img/20240403-journal.club
 
 <div class="row mt-3">
     <div class="offset-sm-3 col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/20240403-journal.club.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
